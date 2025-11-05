@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radx741
 - 👀 I’m interested in Learing how to code
-- 🌱 I’m currently learning Python and unity
+- 🌱 I’m currently learning Fullstack web development
 - 💞️ I’m looking to collaborate on any kind of courses of coding
 - 📫 How to reach me radx741@gmail.com
 
