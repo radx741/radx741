@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @radx741
-- 👀 I’m interested in Learing how to code
-- 🌱 I’m currently learning Fullstack web development
-- 💞️ I’m looking to collaborate on any kind of courses of coding
-- 📫 How to reach me radx741@gmail.com
+👋 Hi, I’m Ibrahim Al-Barwani
 
-<!---
-radx741/radx741 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Full-Stack Web Development
+🌱 I’m currently learning Next.js
+💞️ I’m looking to collaborate on coding courses, learning projects, and open-source work
+📫 How to reach me: radx741@gmail.com
+
